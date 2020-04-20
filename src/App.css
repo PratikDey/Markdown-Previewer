@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+body {
+  background-color: #ff7979;
+}
+
+.preview {
+  background-color: white;
+}
+
+textarea, .preview {
+  min-height: 400px;
+}
